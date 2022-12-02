@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 周晓旭
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Zxx
 language: en
 timezone: ''
 
@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -106,3 +106,16 @@ deploy:
   type: git
   repo: git@github.com:zxxDesign/zxxDesign.github.io.git
   branch: gh-pages
+
+marked:
+  prependRoot: true
+  postAsset: true
+
+
+# # Header
+# menu:
+#   About: /about
+#   Contact: /contact
+#   Instagram: https://www.instagram.com
+#   LinkedIn: https://www.linkedin.com
+#   Facebook: https://www.facebook.com
