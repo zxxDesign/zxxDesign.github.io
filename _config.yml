@@ -11,6 +11,14 @@ author: Zxx
 language: en
 timezone: ''
 
+# Header
+menu:
+  About: /about
+  Contact: /contact
+  Email: mailto:zhouxiaoxuzxx@126.com
+  LinkedIn: https://www.linkedin.com
+  Facebook: https://www.facebook.com
+
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://example.com
@@ -111,11 +119,3 @@ marked:
   prependRoot: true
   postAsset: true
 
-
-# # Header
-# menu:
-#   About: /about
-#   Contact: /contact
-#   Instagram: https://www.instagram.com
-#   LinkedIn: https://www.linkedin.com
-#   Facebook: https://www.facebook.com
